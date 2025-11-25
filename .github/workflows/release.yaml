@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main # or main
+
 jobs:
   release:
     name: Release
